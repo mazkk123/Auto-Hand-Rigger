@@ -11,7 +11,7 @@ with automatic mesh binding.
 
 - Extract the src, Videos and images folder directory path to a local file path location
 - Open the maya python editor.
-- Copy and paste the main.py file within the src folder into the python editor
+- Copy and paste the auto_hand_rigger.py file within the src folder into the python editor
 - This will prompt you with an empty field
 - Copy and paste the directory path pointing to the file path location in step 1 into
   this empty field
